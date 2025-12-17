@@ -1,4 +1,4 @@
-# School Management Dashboard
+# EduDesk - Student Portal Management Dashboard
 
 ## Getting Started
 
