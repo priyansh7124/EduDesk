@@ -1,7 +1,7 @@
 // TEMPORARY DATA
 
-export let role = "parent"; // Possible roles: admin, teacher, student, parent
-import type { Event } from "react-big-calendar";
+export let role = "admin";
+
 export const teachersData = [
   {
     id: 1,
@@ -914,8 +914,6 @@ export const announcementsData = [
     date: "2025-01-01",
   },
 ];
-
-// YOU SHOULD CHANGE THE DATES OF THE EVENTS TO THE CURRENT DATE TO SEE THE EVENTS ON THE CALENDAR
 export const calendarEvents = [
   {
     title: "Math",
